@@ -6,6 +6,10 @@ Projeto desenvolvido a partir de um desafio do [Frontend Mentor](https://www.fro
 
 ![Preview do projeto](./assets/images/blog-screenshot.png)
 
+## 🌐 Projeto online
+
+[Ver projeto na Vercel](https://blog-preview-card-wheat-theta.vercel.app/)
+
 ## 🛠️ Tecnologias
 
 * HTML5
