@@ -2,6 +2,10 @@
 
 Projeto desenvolvido a partir de um desafio do [Frontend Mentor](https://www.frontendmentor.io/), com o objetivo de reproduzir um card de prévia de artigo utilizando HTML e CSS.
 
+## 📸 Preview
+
+![Preview do projeto](./assets/images/blog-screenshot.png)
+
 ## 🛠️ Tecnologias
 
 * HTML5
